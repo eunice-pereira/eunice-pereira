@@ -1,4 +1,4 @@
-### Hello, I'm Eunice! 👋🏼 👩🏻‍
+### Hello, I'm Eunice! 👋🏼 👩🏻‍💻
 
 I'm passionate about learning to code, excited to create technology to inspire people, and build community. I'm looking forward to expanding my knowledge in Python, database management, and data visualization in preparation for a career in Data Science! 🤓📊 When I'm not coding, I enjoy reading, fitness, and improving my chess skills. 
 
