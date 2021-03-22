@@ -1,12 +1,12 @@
 ![](github-banner.jpg)
 
-I'm passionate about learning to code, excited to create technology to inspire people, and build community. I'm looking forward to expanding my knowledge in Python, database management, and data visualization in preparation for a career in Data Science! 🤗 📊 
+I'm passionate about learning to code, excited to create technology to inspire people, and build community.
 When I'm not coding, I enjoy reading, exploring new plant-based recipes, and improving my chess skills. 
 
 - 💻 Full Stack Developer graduate from DigitalCrafts. 
-- 🙇🏻‍♀️ I’m currently learning React.
+- 🙇🏻‍♀️ I’m currently practicing React and Python.
 - 💬 Send me a message, I'd love to collaborate! 
-- 📄 Resume (TBD)
+- 📄 www.EunicePereira.com
 
 ### Connect with me:
 
