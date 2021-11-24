@@ -1,12 +1,8 @@
-![](github-banner.jpg)
-
-I'm passionate about learning to code, excited to create technology to inspire people, and build community.
-When I'm not coding, I enjoy reading, exploring new plant-based recipes, and improving my chess skills. 
+I'm passionate about coding and excited to help make data-driven decisions for positive social impact.
+When I'm not coding, I enjoy reading, exploring new plant-based recipes, and arts & crafts.  
 
 - 💻 Full Stack Developer graduate from DigitalCrafts. 
-- 🙇🏻‍♀️ I’m currently practicing React and Python.
-- 💬 Send me a message, I'd love to collaborate! 
-- 📄 www.EunicePereira.com
+- 🙇🏻‍♀️ I’m currently practicing Python and SQL. 
 
 ### Connect with me:
 
